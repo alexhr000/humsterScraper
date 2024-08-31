@@ -1,0 +1,611 @@
+[
+  {
+    "card_name": "CEO",
+    "hour_profit": "3,08K",
+    "card_upgrade_price": "4M",
+    "card_lvl": "lvl 17",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/_ceo.png"
+  },
+  {
+    "card_name": "Marketing",
+    "hour_profit": "1,25K",
+    "card_upgrade_price": "80,73K",
+    "card_lvl": "lvl 12",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/_marketing.png"
+  },
+  {
+    "card_name": "IT team",
+    "hour_profit": "6,69K",
+    "card_upgrade_price": "3,33M",
+    "card_lvl": "lvl 16",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/_it_team.png"
+  },
+  {
+    "card_name": "Support team",
+    "hour_profit": "1,25K",
+    "card_upgrade_price": "60,55K",
+    "card_lvl": "lvl 12",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/support_team.png"
+  },
+  {
+    "card_name": "HamsterBook",
+    "hour_profit": "1,11K",
+    "card_upgrade_price": "21,41K",
+    "card_lvl": "lvl 11",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "HamsterTube",
+    "hour_profit": "1,61K",
+    "card_upgrade_price": "48,44K",
+    "card_lvl": "lvl 12",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "X",
+    "hour_profit": "1,26K",
+    "card_upgrade_price": "23,55K",
+    "card_lvl": "lvl 11",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Cointelegraph",
+    "hour_profit": "902",
+    "card_upgrade_price": "116,3K",
+    "card_lvl": "lvl 14",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "HamsterGram",
+    "hour_profit": "894",
+    "card_upgrade_price": "40,37K",
+    "card_lvl": "lvl 12",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "TikTok",
+    "hour_profit": "2,26K",
+    "card_upgrade_price": "249,22K",
+    "card_lvl": "lvl 14",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Сoindesk",
+    "hour_profit": "1,61K",
+    "card_upgrade_price": "159,84K",
+    "card_lvl": "lvl 13",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Influencers",
+    "hour_profit": "6,09K",
+    "card_upgrade_price": "830,74K",
+    "card_lvl": "lvl 14",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Partnership program",
+    "hour_profit": "967",
+    "card_upgrade_price": "11,92K",
+    "card_lvl": "lvl 10",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Product team",
+    "hour_profit": "1,38K",
+    "card_upgrade_price": "23,84K",
+    "card_lvl": "lvl 10",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "BisDev team",
+    "hour_profit": "894",
+    "card_upgrade_price": "40,37K",
+    "card_lvl": "lvl 12",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Two factor authentication",
+    "hour_profit": "2,82K",
+    "card_upgrade_price": "332,3K",
+    "card_lvl": "lvl 14",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "UX and UI team",
+    "hour_profit": "3,95K",
+    "card_upgrade_price": "252,55K",
+    "card_lvl": "lvl 14",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Security team",
+    "hour_profit": "5,03K",
+    "card_upgrade_price": "725,36K",
+    "card_lvl": "lvl 15",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/security_team.png"
+  },
+  {
+    "card_name": "QA team",
+    "hour_profit": "3,83K",
+    "card_upgrade_price": "203,8K",
+    "card_lvl": "lvl 13",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/qa_team.png"
+  },
+  {
+    "card_name": "Antihacking shield",
+    "hour_profit": "1,97K",
+    "card_upgrade_price": "161,46K",
+    "card_lvl": "lvl 12",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/antihacking_shield.png"
+  },
+  {
+    "card_name": "Risk management team",
+    "hour_profit": "5,98K",
+    "card_upgrade_price": "664,59K",
+    "card_lvl": "lvl 14",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/risk_management_team.png"
+  },
+  {
+    "card_name": "Security Audition",
+    "hour_profit": "1,2K",
+    "card_upgrade_price": "41,82K",
+    "card_lvl": "lvl 9",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/security_audition.png"
+  },
+  {
+    "card_name": "Anonymous transactions ban",
+    "hour_profit": "8,37K",
+    "card_upgrade_price": "1,5M",
+    "card_lvl": "lvl 16",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/anonymous_transactions_ban.png"
+  },
+  {
+    "card_name": "Blocking suspicious accounts",
+    "hour_profit": "2,86K",
+    "card_upgrade_price": "100,91K",
+    "card_lvl": "lvl 12",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/blocking_suspicious_accounts.png"
+  },
+  {
+    "card_name": "Tokenomics expert",
+    "hour_profit": "6,91K",
+    "card_upgrade_price": "119,2K",
+    "card_lvl": "lvl 10",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/tokenomics_expert.png"
+  },
+  {
+    "card_name": "Consensus Explorer pass",
+    "hour_profit": "30,21K",
+    "card_upgrade_price": "4M",
+    "card_lvl": "lvl 13",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "VC Labs",
+    "hour_profit": "12,56K",
+    "card_upgrade_price": "11,24M",
+    "card_lvl": "lvl 15",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/vc_labs.png"
+  },
+  {
+    "card_name": "Compliance officer",
+    "hour_profit": "1,66K",
+    "card_upgrade_price": "83,44K",
+    "card_lvl": "lvl 10",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/compliance_officer.png"
+  },
+  {
+    "card_name": "Welcome to Amsterdam",
+    "hour_profit": "+325",
+    "card_upgrade_price": "USDT on TON lvl 3",
+    "card_lvl": "lvl 0",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Development Hub Mumbai",
+    "hour_profit": "55,27K",
+    "card_upgrade_price": "2,15M",
+    "card_lvl": "lvl 10",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/development_hub_mumbai.png"
+  },
+  {
+    "card_name": "Data Сenter Tokyo",
+    "hour_profit": "66,69K",
+    "card_upgrade_price": "1,71M",
+    "card_lvl": "lvl 8",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Leaderboards",
+    "hour_profit": "8,99K",
+    "card_upgrade_price": "278,77K",
+    "card_lvl": "lvl 9",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/leaderboards.png"
+  },
+  {
+    "card_name": "Minigame",
+    "hour_profit": "8,65K",
+    "card_upgrade_price": "220,64K",
+    "card_lvl": "lvl 7",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Fan tokens",
+    "hour_profit": "23,87K",
+    "card_upgrade_price": "7,25M",
+    "card_lvl": "lvl 15",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/fan_tokens.png?v=1"
+  },
+  {
+    "card_name": "Staking",
+    "hour_profit": "16,73K",
+    "card_upgrade_price": "5,82M",
+    "card_lvl": "lvl 16",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "BTC pairs",
+    "hour_profit": "806",
+    "card_upgrade_price": "39,96K",
+    "card_lvl": "lvl 13",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "ETH pairs",
+    "hour_profit": "806",
+    "card_upgrade_price": "47,95K",
+    "card_lvl": "lvl 13",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Top 10 cmc pairs",
+    "hour_profit": "1,43K",
+    "card_upgrade_price": "80,73K",
+    "card_lvl": "lvl 12",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "GameFi tokens",
+    "hour_profit": "2,16K",
+    "card_upgrade_price": "2M",
+    "card_lvl": "lvl 17",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Defi2.0 tokens",
+    "hour_profit": "632",
+    "card_upgrade_price": "21,41K",
+    "card_lvl": "lvl 11",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "SocialFi tokens",
+    "hour_profit": "789",
+    "card_upgrade_price": "21,41K",
+    "card_lvl": "lvl 11",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Meme coins",
+    "hour_profit": "1,74K",
+    "card_upgrade_price": "85,63K",
+    "card_lvl": "lvl 11",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/meme_coins.png"
+  },
+  {
+    "card_name": "Shit coins",
+    "hour_profit": "13,31K",
+    "card_upgrade_price": "1,66M",
+    "card_lvl": "lvl 14",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Margin trading x10",
+    "hour_profit": "6,91K",
+    "card_upgrade_price": "1,81M",
+    "card_lvl": "lvl 15",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Margin trading x20",
+    "hour_profit": "8,8K",
+    "card_upgrade_price": "1,81M",
+    "card_lvl": "lvl 15",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Margin trading x30",
+    "hour_profit": "12,56K",
+    "card_upgrade_price": "2,54M",
+    "card_lvl": "lvl 15",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Margin trading x50",
+    "hour_profit": "30,68K",
+    "card_upgrade_price": "16,63M",
+    "card_lvl": "lvl 16",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Margin trading x75",
+    "hour_profit": "+1,1K",
+    "card_upgrade_price": "Short squeeze lvl 10",
+    "card_lvl": "lvl 0",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Margin trading x100",
+    "hour_profit": "+975",
+    "card_upgrade_price": "Short squeeze lvl 3",
+    "card_lvl": "lvl 0",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Derivatives",
+    "hour_profit": "12,44K",
+    "card_upgrade_price": "1,81M",
+    "card_lvl": "lvl 15",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Prediction markets",
+    "hour_profit": "+345",
+    "card_upgrade_price": "Пригласи 2 друзей",
+    "card_lvl": "lvl 0",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Web3 integration",
+    "hour_profit": "17,82K",
+    "card_upgrade_price": "2,16M",
+    "card_lvl": "lvl 14",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "DAO",
+    "hour_profit": "+230",
+    "card_upgrade_price": "Пригласи 4 друзей",
+    "card_lvl": "lvl 0",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/dao.png"
+  },
+  {
+    "card_name": "P2P trading",
+    "hour_profit": "9,8K",
+    "card_upgrade_price": "3,05M",
+    "card_lvl": "lvl 15",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/p2p_trading.png"
+  },
+  {
+    "card_name": "Trading bots",
+    "hour_profit": "4,9K",
+    "card_upgrade_price": "1,52M",
+    "card_lvl": "lvl 15",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/trading_bots.png"
+  },
+  {
+    "card_name": "LayerZero Listing",
+    "hour_profit": "14,21K",
+    "card_upgrade_price": "428,13K",
+    "card_lvl": "lvl 11",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/layerzero_listing.png"
+  },
+  {
+    "card_name": "KYC",
+    "hour_profit": "251",
+    "card_upgrade_price": "72,54K",
+    "card_lvl": "lvl 15",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "KYB",
+    "hour_profit": "1,07K",
+    "card_upgrade_price": "40,37K",
+    "card_lvl": "lvl 12",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Legal opinion",
+    "hour_profit": "829",
+    "card_upgrade_price": "23,84K",
+    "card_lvl": "lvl 10",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "SEC transparancy",
+    "hour_profit": "1,21K",
+    "card_upgrade_price": "191,81K",
+    "card_lvl": "lvl 13",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/sec_transparancy.png"
+  },
+  {
+    "card_name": "Anti money loundering",
+    "hour_profit": "5,64K",
+    "card_upgrade_price": "479,52K",
+    "card_lvl": "lvl 13",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Licence UAE",
+    "hour_profit": "14,07K",
+    "card_upgrade_price": "3,63M",
+    "card_lvl": "lvl 15",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/__licence_uae.png"
+  },
+  {
+    "card_name": "Licence Europe",
+    "hour_profit": "16,24K",
+    "card_upgrade_price": "1,66M",
+    "card_lvl": "lvl 14",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/__licence_europe.png"
+  },
+  {
+    "card_name": "Licence Asia",
+    "hour_profit": "7,45K",
+    "card_upgrade_price": "799,2K",
+    "card_lvl": "lvl 13",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/_licence_asia.png"
+  },
+  {
+    "card_name": "Licence South America",
+    "hour_profit": "6,98K",
+    "card_upgrade_price": "403,65K",
+    "card_lvl": "lvl 12",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/_licence_south_america.png"
+  },
+  {
+    "card_name": "Licence Australia",
+    "hour_profit": "15,33K",
+    "card_upgrade_price": "1,66M",
+    "card_lvl": "lvl 14",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/__licence_australia.png"
+  },
+  {
+    "card_name": "Licence North America",
+    "hour_profit": "19,33K",
+    "card_upgrade_price": "1,6M",
+    "card_lvl": "lvl 13",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/_licence_north_america.png"
+  },
+  {
+    "card_name": "Licence Nigeria",
+    "hour_profit": "2,68K",
+    "card_upgrade_price": "64,22K",
+    "card_lvl": "lvl 11",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/__licence_nigeria.png"
+  },
+  {
+    "card_name": "Licence Japan",
+    "hour_profit": "+2,6K",
+    "card_upgrade_price": "Пригласи ещё +1 друзей",
+    "card_lvl": "lvl 0",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/__licence_japan.png"
+  },
+  {
+    "card_name": "Licence Ethiopia",
+    "hour_profit": "+1,8K",
+    "card_upgrade_price": "Пригласи 2 друзей",
+    "card_lvl": "lvl 0",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/__licence_ethiopia.png"
+  },
+  {
+    "card_name": "Licence India",
+    "hour_profit": "+2,5K",
+    "card_upgrade_price": "Пригласи 3 друзей",
+    "card_lvl": "lvl 0",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/__licence_india.png"
+  },
+  {
+    "card_name": "Licence Bangladesh",
+    "hour_profit": "+3,5K",
+    "card_upgrade_price": "Пригласи 4 друзей",
+    "card_lvl": "lvl 0",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/licence_bangladesh.png"
+  },
+  {
+    "card_name": "Licence Indonesia",
+    "hour_profit": "+5K",
+    "card_upgrade_price": "Пригласи 4 друзей",
+    "card_lvl": "lvl 0",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/licence_indonesia.png"
+  },
+  {
+    "card_name": "Licence Vietnam",
+    "hour_profit": "+4K",
+    "card_upgrade_price": "Пригласи ещё +1 друзей",
+    "card_lvl": "lvl 0",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/licence_vietnam.png"
+  },
+  {
+    "card_name": "Licence Turkey",
+    "hour_profit": "+3K",
+    "card_upgrade_price": "Пригласи ещё +1 друзей",
+    "card_lvl": "lvl 0",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/licence_turkey.png"
+  },
+  {
+    "card_name": "Licence Philippines",
+    "hour_profit": "130,92K",
+    "card_upgrade_price": "23,98M",
+    "card_lvl": "lvl 13",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/licence_philippines.png"
+  },
+  {
+    "card_name": "DEX",
+    "hour_profit": "47,35K",
+    "card_upgrade_price": "3,21M",
+    "card_lvl": "lvl 11",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/dex.png"
+  },
+  {
+    "card_name": "Oracle",
+    "hour_profit": "11,06K",
+    "card_upgrade_price": "417,2K",
+    "card_lvl": "lvl 10",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/oracle.png"
+  },
+  {
+    "card_name": "Vesting Smartcontracts",
+    "hour_profit": "12,31K",
+    "card_upgrade_price": "350,84K",
+    "card_lvl": "lvl 8",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/vesting_smartcontracts.png"
+  },
+  {
+    "card_name": "Launchpad",
+    "hour_profit": "25,96K",
+    "card_upgrade_price": "524,02K",
+    "card_lvl": "lvl 7",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/launchpad.png"
+  },
+  {
+    "card_name": "NFT Marketplace",
+    "hour_profit": "+2K",
+    "card_upgrade_price": "NFT Collection Launch lvl 5",
+    "card_lvl": "lvl 0",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/nft_marketplace.png"
+  },
+  {
+    "card_name": "Grant for Developers",
+    "hour_profit": "41,04K",
+    "card_upgrade_price": "855,72K",
+    "card_lvl": "lvl 8",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "NFT Metaverse",
+    "hour_profit": "2K",
+    "card_upgrade_price": "551,25K",
+    "card_lvl": "lvl 1",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/nft_metaverse.png"
+  },
+  {
+    "card_name": "Crypto Farming",
+    "hour_profit": "35,93K",
+    "card_upgrade_price": "2,09M",
+    "card_lvl": "lvl 9",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/crypto_farming.png"
+  },
+  {
+    "card_name": "Sport Collectibles Marketplace",
+    "hour_profit": "8,39K",
+    "card_upgrade_price": "209,08K",
+    "card_lvl": "lvl 9",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  },
+  {
+    "card_name": "Market Making",
+    "hour_profit": "+600",
+    "card_upgrade_price": "Prediction markets lvl 12",
+    "card_lvl": "lvl 0",
+    "card_img_value": "https://hamsterkombatgame.io/images/upgrade/market_making.png"
+  },
+  {
+    "card_name": "Web3 Advertising Platform",
+    "hour_profit": "3,46K",
+    "card_upgrade_price": "71,71K",
+    "card_lvl": "lvl 7",
+    "card_img_value": "https://pic.rutubelist.ru/video/2d/ed/2dedaea8149558b798972c66bc1eda9b.jpg"
+  }
+]
