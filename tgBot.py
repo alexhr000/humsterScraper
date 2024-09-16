@@ -6,9 +6,11 @@ from aiogram.utils.markdown import hbold, hlink
 import os
 import time
 import asyncio
+from dotenv import load_dotenv
 
-
-bot = Bot(token=('6418166216:AAGKaYlY-BxPxNpwXKgihOG7y7sNjt1zxTk'), parse_mode=types.ParseMode.HTML)
+load_dotenv()
+bot_token = os.getenv("BOT_TOKEN")
+bot = Bot(token=(bot_token), parse_mode=types.ParseMode.HTML)
 dp = Dispatcher(bot)
 
 
@@ -25,14 +27,39 @@ async def start(message: types.Message):
         if(lastModify!=startTimejson):
             startTimejson = lastModify  
             new_bundle_alert = "Вышла новая карточка! 🐹 \n \n"
+            await asyncio.sleep(5) 
+            with open(r'card_info_new.json', 'r', encoding='utf-8') as file:
+                content = file.read().strip()
+                if content:
+                    try:
+                        file.seek(0)  # Возвращаемся в начало файла
+                        data1  = json.load(file)    
+                        for item in data1:                   
+                            bundle = f'{hbold("Название: ")}{item.get("card_name")}\n{hbold("Прибыль в час: ")}{item.get("hour_profit")}\n{hbold("Стоимость улучшения: ")}{item.get("card_upgrade_price")}\n\n'
+                            new_bundle_alert = new_bundle_alert + bundle 
+                            await bot.send_photo(message.chat.id, photo=item.get("card_img_value"), caption=new_bundle_alert)  
+                    except json.JSONDecodeError as e:
+                        print(f"Ошибка декодирования JSON: {e}")
+                        await asyncio.sleep(5) 
 
-            with open(r'card_info_new.json',) as file:
-                data1  = json.load(file)    
-                for item in data1:                   
-                    bundle = f'{hbold("Название: ")}{item.get("card_name")}\n{hbold("Прибыль в час: ")}{item.get("hour_profit")}\n{hbold("Стоимость улучшения: ")}{item.get("card_upgrade_price")}\n\n'
-                    new_bundle_alert = new_bundle_alert + bundle 
-                    # await message.answer(new_bundle_alert)  
-                    await bot.send_photo(message.chat.id, photo=item.get("card_img_value"), caption=new_bundle_alert)  
+                        with open(r'card_info_new.json', 'r', encoding='utf-8') as file:
+                            content = file.read().strip()
+                            if content:
+                                try:
+                                    file.seek(0)
+                                    data1  = json.load(file)    
+                                    for item in data1:                   
+                                        bundle = f'{hbold("Название: ")}{item.get("card_name")}\n{hbold("Прибыль в час: ")}{item.get("hour_profit")}\n{hbold("Стоимость улучшения: ")}{item.get("card_upgrade_price")}\n\n'
+                                        new_bundle_alert = new_bundle_alert + bundle 
+                                   
+                                        await bot.send_photo(message.chat.id, photo=item.get("card_img_value"), caption=new_bundle_alert)  
+                                except json.JSONDecodeError as e:
+                                    print(f"Ошибка декодирования JSON: {e}")
+
+
+
+                else:
+                    print("Файл пуст!")
         await asyncio.sleep(3)                   
 
 def main():
